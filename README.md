@@ -12,8 +12,7 @@ I'm a researcher and developer working at the intersection of **Machine Learning
 
 **Languages & Core Tools**
 - Python (NumPy, SciPy, Pandas)
-- Julia, C++, FORTRAN
-- MATLAB/Octave
+- C++, FORTRAN
 
 **ML/DL Frameworks**
 - PyTorch, TensorFlow
@@ -22,15 +21,16 @@ I'm a researcher and developer working at the intersection of **Machine Learning
 
 **Scientific Computing**
 - Jupyter, matplotlib, seaborn
-- HPC tools (MPI, OpenMP)
+- CUDA for GPU acceleration
 - Numerical methods & simulations
 
 **Development & Tools**
+- FastAPI
 - Git, Docker
 - Linux/Unix systems
 - LaTeX for scientific writing
 
-## 📝 Blog & Articles
+<!-- ## 📝 Blog & Articles
 
 I write about machine learning, computational methods, and physics. Check out my articles on:
 
@@ -38,6 +38,7 @@ I write about machine learning, computational methods, and physics. Check out my
 - Technical deep-dives into ML algorithms
 - Scientific computing tutorials and best practices
 - Applications of ML in physics and science
+-->
 
 ## 🚀 Featured Projects
 
@@ -49,7 +50,7 @@ I write about machine learning, computational methods, and physics. Check out my
 
 ### [Project Name 2]
 > Brief description of your project
-- **Tech**: Julia, Scientific Computing
+- **Tech**: Python, Scientific Computing
 - **Highlights**: Key achievements or features
 - [Link to repository]
 
@@ -72,16 +73,7 @@ I write about machine learning, computational methods, and physics. Check out my
 
 ## 📫 Connect With Me
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter/X**: [@yourhandle]
-- **Website/Blog**: [your-website.com]
-
-## 💡 Fun Facts
-
-- I believe the best way to understand something is to simulate it
-- Coffee-driven development ☕
-- Always looking for interesting problems at the intersection of physics and ML
+- **Website**: [mirxonius.github.io](https://mirxonius.github.io)
 
 ---
 
