@@ -40,25 +40,7 @@ I write about machine learning, computational methods, and physics. Check out my
 - Applications of ML in physics and science
 -->
 
-## 🚀 Featured Projects
 
-### [Project Name 1]
-> Brief description of your project - what problem it solves, technologies used
-- **Tech**: Python, PyTorch, NumPy
-- **Highlights**: Key achievements or features
-- [Link to repository]
-
-### [Project Name 2]
-> Brief description of your project
-- **Tech**: Python, Scientific Computing
-- **Highlights**: Key achievements or features
-- [Link to repository]
-
-### [Project Name 3]
-> Brief description of your project
-- **Tech**: Machine Learning, Physics
-- **Highlights**: Key achievements or features
-- [Link to repository]
 
 ## 📊 GitHub Stats
 
@@ -75,8 +57,6 @@ I write about machine learning, computational methods, and physics. Check out my
 
 - **Website**: [mirxonius.github.io](https://mirxonius.github.io)
 
----
 
-*"The universe is written in the language of mathematics" - Galileo Galilei*
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on projects involving ML, scientific computing, or physics!
