@@ -12,12 +12,11 @@ I'm a researcher and developer working at the intersection of **Machine Learning
 
 **Languages & Core Tools**
 - Python (NumPy, SciPy, Pandas)
-- C++, FORTRAN
+- C++
 
 **ML/DL Frameworks**
 - PyTorch, TensorFlow
 - scikit-learn
-- JAX
 
 **Scientific Computing**
 - Jupyter, matplotlib, seaborn
@@ -44,8 +43,8 @@ I write about machine learning, computational methods, and physics. Check out my
 ## 🌱 Currently Exploring
 
 - Advanced deep learning architectures
-- Quantum computing and quantum ML
 - Large-scale scientific simulations
+- Dynamical Systems and Criticality
 - Physics-informed neural networks (PINNs)
 
 ## 📫 Connect With Me
