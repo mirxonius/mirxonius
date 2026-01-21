@@ -41,11 +41,6 @@ I write about machine learning, computational methods, and physics. Check out my
 -->
 
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirxonius&show_icons=true&theme=radical)
-
 ## 🌱 Currently Exploring
 
 - Advanced deep learning architectures
